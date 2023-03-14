@@ -1,4 +1,4 @@
-# Challange
+# Challenge
 
 ## Step 1:
 Create a script to generate a CSV file with random data. Example: 1234, randomstring
