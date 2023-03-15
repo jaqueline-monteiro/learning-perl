@@ -1,0 +1,6 @@
+output: output_yaml.csv
+fields:
+  - name: id
+    type: integer
+  - name: name
+    type: string

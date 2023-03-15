@@ -10,3 +10,6 @@ Using the previous script, now add the ability to pass in command line parameter
 
 # Step 3:
 Using the previous script, use a generator to create the rows instead of creating a list. This will likely require you to rewrite parts of your script to handle processing a row at a time instead of using a list. It's useful to understand the differences you need to make in your code when using generators vs lists. Perl has generator expressions and generator functions that you will want to look up.
+
+# Step 4:
+Now we want to use a config file (YAML or JSON) that will contain the type of each field to generate. Add support for both types of config file.
